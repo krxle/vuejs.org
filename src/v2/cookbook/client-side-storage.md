@@ -122,7 +122,7 @@ Comme mentionné plus haut, le Local Storage marche seulement avec de simples va
 
   <p>
     <input v-model="newCat">
-    <button @click="addCat"Ajouter un chat</button>
+    <button @click="addCat">Ajouter un chat</button>
   </p>
 </div>
 ```
